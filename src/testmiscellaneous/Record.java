@@ -21,7 +21,7 @@ public class Record {
     
     public Record()
     {
-        this(0,"","",0.0,0.0,0.0);
+        
     }
     
 
