@@ -5,6 +5,8 @@
  */
 package testmiscellaneous;
 
+import java.nio.channels.Pipe.SourceChannel;
+
 /**
  *
  * @author Jose
@@ -70,6 +72,7 @@ public class Record2 {
     }
 
     public double getNota3() {
+    	System.out.println("probando nuevo cambio");
         return nota3;
     }
     
