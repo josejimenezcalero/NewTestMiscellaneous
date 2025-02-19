@@ -21,7 +21,7 @@ public class Record {
     
     public Record()
     {
-        
+        System.out.println("V1.000");
     }
     
 
